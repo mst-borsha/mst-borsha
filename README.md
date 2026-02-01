@@ -27,7 +27,7 @@ I am a <b>Jr. Flutter Developer</b> with 10–12 months of team experience, curr
 <img src="https://github.com/md-miyam/readmi_image/blob/main/x.jpg" alt="X" height="40" width="40" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:mdmiyam20@gmail.com">
+<a href="mailto:mstborsha852005@gmail.com">
 <img src="https://github.com/md-miyam/readmi_image/blob/main/gmail.png" alt="Gmail" height="40" width="40" />
 </a>
 &nbsp;&nbsp;
