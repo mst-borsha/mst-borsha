@@ -15,7 +15,7 @@ I am a <b>Jr. Flutter Developer</b> with 10–12 months of team experience, curr
 <h3 align="center">Social Accounts</h3>
  
 <p align="center">
-<a href="https://www.linkedin.com/in/md-miyam-hosen-978029279/">
+<a href="https://www.linkedin.com/in/mst-borsha-908060396/">
 <img src="https://github.com/md-miyam/readmi_image/blob/main/linkedin.png" alt="LinkedIn" height="40" width="40" />
 </a>
 &nbsp;&nbsp;
